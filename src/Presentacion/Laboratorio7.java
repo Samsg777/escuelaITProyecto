@@ -19,6 +19,7 @@ public class Laboratorio7 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        //Realizando modificaciones
         try {
             Prueba pruebas = new Prueba();
             pruebas.pruebaColaArreglo();
